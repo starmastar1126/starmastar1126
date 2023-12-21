@@ -54,7 +54,7 @@ Icons by [https://icons8.com](https://icons8.com)
 
 ## :wave: Mentions
 
-Many thanks from people that referenced this repository here.
+Many thanks from people who referenced this repository here.
 
 <p align="center">
 <!-- MENTIONS-LIST:START -->
