@@ -56,7 +56,7 @@ I prioritize client satisfaction over earnings, which is why I focus on deliveri
 
 <!-- ![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark) -->
 
-### Let’s work together 📈
+### 📈 Let’s work together 
 I provide boutique consultancy services for React and React Native. I’m available mainly on contracts. I join the team like other full-time employees, but with a fixed time commitment.
 
 If you are interested in my services, feel free to visit my [website](https://starmastar1126.github.io/portfolio), or send me an email at [starmastar1126@gmail.com](mailto:starmastar1126@gmail.com).
