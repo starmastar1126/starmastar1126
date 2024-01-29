@@ -6,22 +6,19 @@ I prioritize client satisfaction over earnings, which is why I focus on deliveri
 ### Talks & Articles 🎙
 I am deeply indebted to the remarkable React & React Native community, which has greatly enriched my journey. Therefore, I am eager to reciprocate by giving back and disseminating my knowledge. I actively engage in public speaking at conferences and meetups, conduct workshops, produce articles, and contribute to open-source projects. Below, you'll find a selection of my previous endeavors:
 
-#### Talks
+#### Youtube
+- [Youtube React Native Channel for 'starmastar1126'](https://www.youtube.com/channel/UCzeChx-CbFZLGpeUpItcHiw)
 - [Qalorie: Healthcare Web & Mobile Application(React/React Native)](https://youtu.be/mUx_bmXiUgs)
 - [Borw: Fashion Mobile Application(React Native)](https://youtu.be/zFQFFhuZhcY)
 - [HouseSigma: Canada Real Estate Mobile Application(React Native/Expo)](https://youtu.be/lz95cwVvB5I)
 - [Foodnet: Romania Food Delivery & Recipe Mobile Application(React Native/Expo)](https://youtu.be/XDGSIJ3WguM)
-- [Paksa: eCommerce Mobile Application](https://youtu.be/7zK89HbPaz4)
-  
-- [StarMastar1126 React Native Channel](https://www.youtube.com/channel/UCzeChx-CbFZLGpeUpItcHiw)
+- [Paksa: eCommerce Mobile Application(React Native)](https://youtu.be/7zK89HbPaz4)
 
 #### Articles
-- [React Native - Guide to Integration with Existing Apps (iOS)](https://michalchudziak.dev/blog/integration-with-existing-apps-ios)
-- [React Native - Guide to Integration with Existing Apps (Android)](https://michalchudziak.dev/blog/integration-with-existing-apps-android)
-- [Introducing React Native OSS Board](https://medium.com/call-stack/introducing-react-native-oss-board-111c87fc136e)
-- [Make a React Hook out of your Native Module](https://medium.com/call-stack/introducing-react-native-oss-board-111c87fc136e)
-- [The team growth done right](https://medium.com/call-stack/the-team-growth-done-right-378267982734)
-- [Say goodbye to old-fashioned forks thanks to the patch-package](https://medium.com/call-stack/say-goodbye-to-old-fashioned-forks-thanks-to-the-patch-package-3c63a62eea1c)
+- [React Native: The Future of Mobile App Development](https://starmastar1126.medium.com/react-native-the-future-of-mobile-app-development-3f1d4e83e5cc)
+- [Optimal React Native Architecture and Example](https://starmastar1126.medium.com/optimal-react-native-architecture-and-example-a0c92359ce7e)
+- [React Native Emerging Technology in 2024](https://starmastar1126.medium.com/react-native-emerging-technology-in-2024-63191bc08aaf)
+- [In the future, will React Native be abandoned?](https://starmastar1126.medium.com/in-the-future-will-react-native-be-abandoned-5d296c059da5)
 
 ### Technologies 💻
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JS" alt="JS" width="40" height="40"/>&nbsp;
@@ -31,6 +28,15 @@ I am deeply indebted to the remarkable React & React Native community, which has
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/objectivec/objectivec-plain.svg" title="Obj-C" alt="Obj-C" width="40" height="40"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin" width="40" height="40"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+
+### Git Profile Trophy
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=starmastar1126&theme=onedark&margin-w=15&margin-h=15)](https://github.com/starmastar1126/BorwFashion_ReactNative)
+
+### Stats
+![merko][merko]
+
+[merko]: https://github-readme-stats.vercel.app/api?username=starmastar1126&show_owner=true&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=merko
 
 ### Let’s work together 📈
 I provide boutique consultancy services for React and React Native. I’m available mainly on contracts. I join the team like other full-time employees, but with a fixed time commitment.
