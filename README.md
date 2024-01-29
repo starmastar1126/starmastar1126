@@ -35,8 +35,10 @@ I prioritize client satisfaction over earnings, which is why I focus on deliveri
 
 ### Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=starmastar1126&show_icons=true&theme=merko)&nbsp;&nbsp;&nbsp;
+![Stats](https://github-readme-stats.vercel.app/api?username=starmastar1126&show_icons=true&theme=merko)
+
 ![Streak](https://github-readme-streak-stats.herokuapp.com?user=starmastar1126&hide_border=true&border_radius=5&theme=merko)
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=starmastar1126&layout=compact&theme=merko" alt="Top Languages"/>
 
 <!-- ![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark) -->
