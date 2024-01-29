@@ -1,3 +1,6 @@
+
+![Profile View](https://komarev.com/ghpvc/?username=starmastar1126&color=green)
+
 ### 👋 Hello 
 &nbsp;&nbsp;&nbsp;Howdy, I'm Silas, currently residing in Santa Clara, California. A seasoned full-stack developer with **over a decade** of dedicated practice.
 I prioritize client satisfaction over earnings, which is why I focus on delivering quality work.
@@ -7,7 +10,7 @@ I prioritize client satisfaction over earnings, which is why I focus on deliveri
 
 #### Youtube
 - [Qalorie: Healthcare Web & Mobile Application(React/React Native)](https://youtu.be/mUx_bmXiUgs)
-- [B o r w: Fashion Mobile Application(React Native)](https://youtu.be/zFQFFhuZhcY)
+- [Borw: Fashion Mobile Application(React Native)](https://youtu.be/zFQFFhuZhcY)
 - [Brokier: Canada Real Estate Mobile Application(React Native/Expo)](https://youtu.be/lz95cwVvB5I)
 - [Foodnet: Romania Food Delivery & Recipe Mobile Application(React Native/Expo)](https://youtu.be/XDGSIJ3WguM)
 - [Paksa: eCommerce Mobile Application(React Native)](https://youtu.be/7zK89HbPaz4)
@@ -27,7 +30,7 @@ I prioritize client satisfaction over earnings, which is why I focus on deliveri
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin" width="40" height="40"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
 
-### 🏆 Git Profile Trophy
+### 🏆 Trophy
 [![trophy](https://github-profile-trophy.vercel.app/?username=starmastar1126&theme=onedark&margin-w=15&margin-h=15)](https://github.com/starmastar1126/BorwFashion_ReactNative)
 
 ### Stats
@@ -35,7 +38,7 @@ I prioritize client satisfaction over earnings, which is why I focus on deliveri
 ![Stats](https://github-readme-stats.vercel.app/api?username=starmastar1126&show_icons=true&theme=merko)&nbsp;&nbsp;&nbsp;
 ![Streak](https://github-readme-streak-stats.herokuapp.com?user=starmastar1126&hide_border=true&border_radius=5&theme=merko)
 
-
+![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ### Connect with me
 <p align="left">
