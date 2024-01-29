@@ -1,5 +1,3 @@
-[![MasterHead](<img align="right" alt="Coding" width="400" src="add your link here">)](https://github.com/starmastar1126/)
-
 ### 👋 Hello 
 &nbsp;&nbsp;&nbsp;Howdy, I'm Silas, currently residing in Santa Clara, California. A seasoned full-stack developer with **over a decade** of dedicated practice.
 I prioritize client satisfaction over earnings, which is why I focus on delivering quality work.
