@@ -7,8 +7,8 @@ I prioritize client satisfaction over earnings, which is why I focus on deliveri
 
 #### Youtube
 - [Qalorie: Healthcare Web & Mobile Application(React/React Native)](https://youtu.be/mUx_bmXiUgs)
-- [Borw: Fashion Mobile Application(React Native)](https://youtu.be/zFQFFhuZhcY)
-- [HouseSigma: Canada Real Estate Mobile Application(React Native/Expo)](https://youtu.be/lz95cwVvB5I)
+- [B o r w: Fashion Mobile Application(React Native)](https://youtu.be/zFQFFhuZhcY)
+- [Brokier: Canada Real Estate Mobile Application(React Native/Expo)](https://youtu.be/lz95cwVvB5I)
 - [Foodnet: Romania Food Delivery & Recipe Mobile Application(React Native/Expo)](https://youtu.be/XDGSIJ3WguM)
 - [Paksa: eCommerce Mobile Application(React Native)](https://youtu.be/7zK89HbPaz4)
 
