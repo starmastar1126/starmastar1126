@@ -1,19 +1,19 @@
 
-// ![hero-image](https://michalchudziak.dev/socials/text.png)
 ### Hello 👋
 Howdy, I'm Silas, currently residing in Santa Clara, California. A seasoned full-stack developer with **over a decade** of dedicated practice.
 I prioritize client satisfaction over earnings, which is why I focus on delivering quality work.
 
 ### Talks & Articles 🎙
-"I am deeply indebted to the remarkable React & React Native community, which has greatly enriched my journey. Therefore, I am eager to reciprocate by giving back and disseminating my knowledge. I actively engage in public speaking at conferences and meetups, conduct workshops, produce articles, and contribute to open-source projects. Below, you'll find a selection of my previous endeavors:
+I am deeply indebted to the remarkable React & React Native community, which has greatly enriched my journey. Therefore, I am eager to reciprocate by giving back and disseminating my knowledge. I actively engage in public speaking at conferences and meetups, conduct workshops, produce articles, and contribute to open-source projects. Below, you'll find a selection of my previous endeavors:
 
 #### Talks
 - [Qalorie: Healthcare Web & Mobile Application(React/React Native)](https://youtu.be/mUx_bmXiUgs)
-- [The React Native Show Podcast - Episode 13: "Migration to React Native"](https://www.youtube.com/watch?v=iYhdKettL2w)
-- [React Native EU 2019: Michał Chudziak - Navigation in Brownfield Apps](https://www.youtube.com/watch?v=DgEQ868arcg)
-- [The React Native Show Podcast - Episode 6: "Brownfield Development with React Native"](https://www.youtube.com/watch?v=om2qELEn6Ww)
-- [Michał Chudziak - World Class experience with React Native](https://www.youtube.com/watch?v=OnkKKcAxJ0Y)
-- [Brownfield Applications with Michal Chudziak](https://www.youtube.com/watch?v=8vEEGiShhPI)
+- [Borw: Fashion Mobile Application(React Native)](https://youtu.be/zFQFFhuZhcY)
+- [HouseSigma: Canada Real Estate Mobile Application(React Native/Expo)](https://youtu.be/lz95cwVvB5I)
+- [Foodnet: Romania Food Delivery & Recipe Mobile Application(React Native/Expo)](https://youtu.be/XDGSIJ3WguM)
+- [Paksa: eCommerce Mobile Application](https://youtu.be/7zK89HbPaz4)
+  
+- [StarMastar1126 React Native Channel](https://www.youtube.com/channel/UCzeChx-CbFZLGpeUpItcHiw)
 
 #### Articles
 - [React Native - Guide to Integration with Existing Apps (iOS)](https://michalchudziak.dev/blog/integration-with-existing-apps-ios)
