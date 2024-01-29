@@ -22,13 +22,13 @@ I prioritize client satisfaction over earnings, which is why I focus on deliveri
 - [In the future, will React Native be abandoned?](https://starmastar1126.medium.com/in-the-future-will-react-native-be-abandoned-5d296c059da5)
 
 ### 💻 Technologies 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JS" alt="JS" width="40" height="40"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" title="TS" alt="TS" width="40" height="40"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" title="Swift" alt="Swift" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/objectivec/objectivec-plain.svg" title="Obj-C" alt="Obj-C" width="40" height="40"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin" width="40" height="40"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
 
 ### 🏆 Trophy
 [![trophy](https://github-profile-trophy.vercel.app/?username=starmastar1126&theme=onedark&margin-w=15&margin-h=15)](https://github.com/starmastar1126/BorwFashion_ReactNative)
@@ -37,8 +37,9 @@ I prioritize client satisfaction over earnings, which is why I focus on deliveri
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=starmastar1126&show_icons=true&theme=merko)&nbsp;&nbsp;&nbsp;
 ![Streak](https://github-readme-streak-stats.herokuapp.com?user=starmastar1126&hide_border=true&border_radius=5&theme=merko)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=starmastar1126&layout=compact&theme=merko" alt="Top Languages"/>
 
-![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+<!-- ![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark) -->
 
 ### Connect with me
 <p align="left">
