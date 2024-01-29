@@ -1,5 +1,5 @@
 
-![Profile View](https://komarev.com/ghpvc/?username=starmastar1126&color=green)
+
 
 ### 👋 Hello, Welcome to StarMastar1126
 &nbsp;&nbsp;&nbsp;Howdy, I'm Silas, currently residing in Santa Clara, California. A seasoned full-stack developer with **over a decade** of dedicated practice.
@@ -15,6 +15,8 @@ I prioritize client satisfaction over earnings, which is why I focus on deliveri
 <a href="https://www.reddit.com/user/starmastar1126"><img src="https://img.shields.io/badge/REDDIT-12100E?logo=reddit&color=FF4400&logoColor=white" /></a>
 <a href="https://www.quora.com/profile/Silas-Jones-61"><img src="https://img.shields.io/badge/QUORA-12100E?logo=quora&color=B82A27&logoColor=white" /></a>
 <a href="https://starmastar1126.github.io/portfolio"><img src="https://img.shields.io/badge/WEBSITE-12100E?logo=html5&color=fe6e95&logoColor=white" /></a>
+
+![Profile View](https://komarev.com/ghpvc/?username=starmastar1126&color=green)
 
 ### 🎙 Youtube & Articles 
 &nbsp;&nbsp;&nbsp;I am deeply indebted to the remarkable React & React Native community, which has greatly enriched my journey. Therefore, I am eager to reciprocate by giving back and disseminating my knowledge. I actively engage in public speaking at conferences and meetups, conduct workshops, produce articles, and contribute to open-source projects. Below, you'll find a selection of my previous endeavors:
@@ -44,7 +46,7 @@ I prioritize client satisfaction over earnings, which is why I focus on deliveri
 ### 🏆 Trophy
 [![trophy](https://github-profile-trophy.vercel.app/?username=starmastar1126&theme=onedark&margin-w=15&margin-h=15)](https://github.com/starmastar1126/BorwFashion_ReactNative)
 
-### Stats
+### 📂 Stats
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=starmastar1126&show_icons=true&theme=merko)
 
@@ -53,14 +55,6 @@ I prioritize client satisfaction over earnings, which is why I focus on deliveri
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=starmastar1126&layout=compact&theme=merko" alt="Top Languages"/>
 
 <!-- ![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark) -->
-
-### Connect with me
-<p align="left">
-  <a href="https://www.twitter.com/starmastar1126" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
-  <a href="https://www.linkedin.com/in/starmastar1127" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
-  <a href="https://www.instagram.com/starmastar1126" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
-  <a href="https://www.youtube.com/@starmastar1127" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" /></a>
-</p>
 
 ### Let’s work together 📈
 I provide boutique consultancy services for React and React Native. I’m available mainly on contracts. I join the team like other full-time employees, but with a fixed time commitment.
