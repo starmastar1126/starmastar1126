@@ -15,7 +15,7 @@ I prioritize client satisfaction over earnings, which is why I focus on deliveri
 
 <a href="https://starmastar1126.github.io/portfolio" target="blank"><img src="https://img.shields.io/badge/WEBSITE-12100E?logo=html5&color=fe6e95&logoColor=white" /></a>
 <a href="starmastar1126@gmail.com"><img src="https://img.shields.io/badge/GMAIL-12100E?logo=gmail&color=FF0000&logoColor=white" /></a>
-<a href="https://t.me/starmastar1126" target="blank"><img src="https://img.shields.io/badge/TELEGRAM-12100E?logo=telegram&color=0000FF&logoColor=white" /></a>
+<a href="https://t.me/starmastar1126" target="_blank"><img src="https://img.shields.io/badge/TELEGRAM-12100E?logo=telegram&color=0000FF&logoColor=white" /></a>
 
 ![Profile View](https://komarev.com/ghpvc/?username=starmastar1126&color=green)
 
