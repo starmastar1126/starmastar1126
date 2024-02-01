@@ -178,7 +178,6 @@ I prioritize client satisfaction over earnings, which is why I focus on deliveri
 ![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark) -->
 
 ### 📈 Contact Information
-- portfolio: [https://starmastar1126.github.io/portfolio](https://starmastar1126.github.io/portfolio)
 - email: [starmastar1126@gmail.com](starmastar1126@gmail.com)
 - phone: [+1 (510) 854-9596](+15108549596)
 - skype: [StarMastar](live:.cid.39519328498761c5)
