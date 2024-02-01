@@ -180,5 +180,4 @@ I prioritize client satisfaction over earnings, which is why I focus on deliveri
 ### 📈 Contact Information
 - email: [starmastar1126@gmail.com](starmastar1126@gmail.com)
 - phone: [+1 (510) 854-9596](+15108549596)
-- skype: [StarMastar](live:.cid.39519328498761c5)
 - telegram: [@starmastar1126](https://t.me/starmastar1126)
