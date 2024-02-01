@@ -1,8 +1,5 @@
-
-
-
 ### 👋 Hello, Welcome to StarMastar1126
-&nbsp;&nbsp;&nbsp;Howdy, I'm Silas, currently residing in Santa Clara, California. A seasoned full-stack developer with **over a decade** of dedicated practice.
+&nbsp;&nbsp;&nbsp; Howdy, I'm Silas, currently residing in Santa Clara, California. A seasoned full-stack developer with **over a decade** of dedicated practice.
 I prioritize client satisfaction over earnings, which is why I focus on delivering quality work.
 
 <a href="https://www.facebook.com/starmastar1126"><img src="https://img.shields.io/badge/FACEBOOK-12100E?logo=facebook&color=0962F8&logoColor=white" /></a>
@@ -14,12 +11,13 @@ I prioritize client satisfaction over earnings, which is why I focus on deliveri
 <a href="https://www.tiktok.com/@ministar1126"><img src="https://img.shields.io/badge/TIKTOK-12100E?logo=tiktok&color=000000&logoColor=white" /></a>
 <a href="https://www.reddit.com/user/starmastar1126"><img src="https://img.shields.io/badge/REDDIT-12100E?logo=reddit&color=FF4400&logoColor=white" /></a>
 <a href="https://www.quora.com/profile/Silas-Jones-61"><img src="https://img.shields.io/badge/QUORA-12100E?logo=quora&color=B82A27&logoColor=white" /></a>
+<a href="https://www.github.com/starmastar1126"><img src="https://img.shields.io/badge/GITHUB-12100E?logo=github&color=0000000&logoColor=white" /></a>
 <a href="https://starmastar1126.github.io/portfolio"><img src="https://img.shields.io/badge/WEBSITE-12100E?logo=html5&color=fe6e95&logoColor=white" /></a>
 
 ![Profile View](https://komarev.com/ghpvc/?username=starmastar1126&color=green)
 
 ### 🎙 Youtube & Articles 
-&nbsp;&nbsp;&nbsp;I am deeply indebted to the remarkable React & React Native community, which has greatly enriched my journey. Therefore, I am eager to reciprocate by giving back and disseminating my knowledge. I actively engage in public speaking at conferences and meetups, conduct workshops, produce articles, and contribute to open-source projects. Below, you'll find a selection of my previous endeavors:
+&nbsp;&nbsp;&nbsp; I am deeply indebted to the remarkable React & React Native community, which has greatly enriched my journey. Therefore, I am eager to reciprocate by giving back and disseminating my knowledge. I actively engage in public speaking at conferences and meetups, conduct workshops, produce articles, and contribute to open-source projects. Below, you'll find a selection of my previous endeavors:
 
 #### Youtube
 - [Qalorie: Healthcare Web & Mobile Application(React/React Native)](https://youtu.be/mUx_bmXiUgs)
@@ -132,7 +130,6 @@ I prioritize client satisfaction over earnings, which is why I focus on deliveri
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
 ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-![Goodreads](https://img.shields.io/badge/Goodreads-F3F1EA?style=for-the-badge&logo=goodreads&logoColor=372213)
 ![Google Meet](https://img.shields.io/badge/Google%20Meet-00897B?style=for-the-badge&logo=google-meet&logoColor=white)
 ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
@@ -167,38 +164,7 @@ I prioritize client satisfaction over earnings, which is why I focus on deliveri
 ![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)
 ![AngelList](https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black)
 
-<!--![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)
-![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)
-![Ghost](https://img.shields.io/badge/ghost-000?style=for-the-badge&logo=ghost&logoColor=%23F7DF1E)
-![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)
-![Rss](https://img.shields.io/badge/rss-F88900?style=for-the-badge&logo=rss&logoColor=white)
-![Substack](https://img.shields.io/badge/Substack-%23006f5c.svg?style=for-the-badge&logo=substack&logoColor=FF6719)
-![Wix](https://img.shields.io/badge/wix-000?style=for-the-badge&logo=wix&logoColor=white)
-![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
-![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)
-![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
-![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white)
-![Drupal](https://img.shields.io/badge/drupal-%230678BE.svg?style=for-the-badge&logo=drupal&logoColor=white)
-![Joomla](https://img.shields.io/badge/joomla-%235091CD.svg?style=for-the-badge&logo=joomla&logoColor=white)
-![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white)
-![Type-graphql](https://img.shields.io/badge/-TypeGraphQL-%23C04392?style=for-the-badge)
-![Windicss](https://img.shields.io/badge/windicss-48B0F1.svg?style=for-the-badge&logo=windi-css&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
-![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
-![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![WebStorm](https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black)-->
-
-### 🏆 Trophy
+<!-- ### 🏆 Trophy
 [![trophy](https://github-profile-trophy.vercel.app/?username=starmastar1126&theme=onedark&margin-w=15&margin-h=15)](https://github.com/starmastar1126/BorwFashion_ReactNative)
 
 ### 📂 Stats
@@ -209,9 +175,11 @@ I prioritize client satisfaction over earnings, which is why I focus on deliveri
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=starmastar1126&layout=compact&theme=merko" alt="Top Languages"/>
 
-<!-- ![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark) -->
+![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark) -->
 
-### 📈 Let’s work together 
-I provide boutique consultancy services for React and React Native. I’m available mainly on contracts. I join the team like other full-time employees, but with a fixed time commitment.
-
-If you are interested in my services, feel free to visit my [website](https://starmastar1126.github.io/portfolio), or send me an email at [starmastar1126@gmail.com](mailto:starmastar1126@gmail.com).
+### 📈 Contact Information
+- portfolio: [https://starmastar1126.github.io/portfolio](https://starmastar1126.github.io/portfolio)
+- email: [starmastar1126@gmail.com](starmastar1126@gmail.com)
+- phone: [+1 (510) 854-9596](+15108549596)
+- skype: [StarMastar](live:.cid.39519328498761c5)
+- Telegram: [@starmastar1126[(https://t.me/starmastar1126)
