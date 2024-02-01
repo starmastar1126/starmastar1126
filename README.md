@@ -13,6 +13,8 @@ I prioritize client satisfaction over earnings, which is why I focus on deliveri
 <a href="https://www.quora.com/profile/Silas-Jones-61"><img src="https://img.shields.io/badge/QUORA-12100E?logo=quora&color=B82A27&logoColor=white" /></a>
 <a href="https://www.github.com/starmastar1126"><img src="https://img.shields.io/badge/GITHUB-12100E?logo=github&color=000000&logoColor=white" /></a>
 <a href="https://starmastar1126.github.io/portfolio"><img src="https://img.shields.io/badge/WEBSITE-12100E?logo=html5&color=fe6e95&logoColor=white" /></a>
+<a href="starmastar1126@gmail.com"><img src="https://img.shields.io/badge/GMAIL-12100E?logo=gmail&color=FF0000&logoColor=white" /></a>
+<a href="https://t.me/starmastar1126"><img src="https://img.shields.io/badge/TELEGRAM-12100E?logo=telegram&color=0000FF&logoColor=white" /></a>
 
 ![Profile View](https://komarev.com/ghpvc/?username=starmastar1126&color=green)
 
