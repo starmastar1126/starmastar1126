@@ -2,13 +2,14 @@
 &nbsp;&nbsp;&nbsp; Howdy, I'm Silas, currently residing in Santa Clara, California. A seasoned full-stack developer with **over a decade** of dedicated practice.
 I prioritize client satisfaction over earnings, which is why I focus on delivering quality work.
 
+<a href="https://linktr.ee/starmastar1126" target="_blank"><img src="https://img.shields.io/badge/LINKTREE-12100E?logo=linktree&color=009926&logoColor=white" /></a>
 <a href="https://www.facebook.com/starmastar1126" target="_blank"><img src="https://img.shields.io/badge/FACEBOOK-12100E?logo=facebook&color=0962F8&logoColor=white" /></a>
 <a href="https://www.twitter.com/starmastar1126" target="_blank"><img src="https://img.shields.io/badge/TWITTER-12100E?logo=twitter&color=1A91E4&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/codecrafts1126" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-12100E?logo=linkedin&color=0077B0&logoColor=white" /></a>
 <a href="https://www.youtube.com/channel/UCzeChx-CbFZLGpeUpItcHiw" target="_blank"><img src="https://img.shields.io/badge/YOUTUBE-12100E?logo=youtube&color=FF0000&logoColor=white" /></a>
 <a href="https://www.medium.com/@starmastar1126" target="_blank"><img src="https://img.shields.io/badge/MEDIUM-12100E?logo=medium&color=000000&logoColor=white" /></a>
-<a href="https://www.reddit.com/user/starmastar1126" target="_blank"><img src="https://img.shields.io/badge/REDDIT-12100E?logo=reddit&color=FF4400&logoColor=white" /></a>
+<a href="https://starmastar1126.hashnode.dev" target="_blank"><img src="https://img.shields.io/badge/HASHNODE-12100E?logo=hashnode&color=0040ff&logoColor=white" /></a>
 <a href="https://www.quora.com/profile/Silas-Jones-61" target="_blank"><img src="https://img.shields.io/badge/QUORA-12100E?logo=quora&color=B82A27&logoColor=white" /></a>
-<!-- <a href="https://www.linkedin.com/in/starmastar1127/" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-12100E?logo=linkedin&color=0077B0&logoColor=white" /></a> -->
 <!-- <a href="https://www.tiktok.com/@ministar1126" target="_blank"><img src="https://img.shields.io/badge/TIKTOK-12100E?logo=tiktok&color=000000&logoColor=white" /></a> -->
 <!-- <a href="https://www.pinterest.com/starmastar1126" target="_blank"><img src="https://img.shields.io/badge/PINTEREST-12100E?logo=pinterest&color=E50023&logoColor=white" /></a> -->
 <a href="https://starmastar1126.github.io/portfolio" target="_blank"><img src="https://img.shields.io/badge/WEBSITE-12100E?logo=html5&color=1F2024&logoColor=white" /></a>
