@@ -6,7 +6,7 @@ I prioritize client satisfaction over earnings, which is why I focus on deliveri
 <a href="https://www.facebook.com/starmastar1126" target="_blank"><img src="https://img.shields.io/badge/FACEBOOK-12100E?logo=facebook&color=0962F8&logoColor=white" /></a>
 <a href="https://www.twitter.com/starmastar1126" target="_blank"><img src="https://img.shields.io/badge/TWITTER-12100E?logo=twitter&color=1A91E4&logoColor=white" /></a>
 <a href="https://www.youtube.com/channel/UCzeChx-CbFZLGpeUpItcHiw" target="_blank"><img src="https://img.shields.io/badge/YOUTUBE-12100E?logo=youtube&color=FF0000&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/starownar1126" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-12100E?logo=linkedin&color=0077B0&logoColor=white" /></a>
+<!-- <a href="https://www.linkedin.com/in/starownar1126" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-12100E?logo=linkedin&color=0077B0&logoColor=white" /></a> -->
 <a href="https://www.medium.com/@starmastar1126" target="_blank"><img src="https://img.shields.io/badge/MEDIUM-12100E?logo=medium&color=000000&logoColor=white" /></a>
 <a href="https://starmastar1126.hashnode.dev" target="_blank"><img src="https://img.shields.io/badge/HASHNODE-12100E?logo=hashnode&color=0040ff&logoColor=white" /></a>
 <a href="https://www.quora.com/profile/Silas-Jones-61" target="_blank"><img src="https://img.shields.io/badge/QUORA-12100E?logo=quora&color=B82A27&logoColor=white" /></a>
