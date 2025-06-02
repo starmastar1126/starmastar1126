@@ -1,20 +1,20 @@
 ### 👋 Hello, Welcome to StarMastar1126
-&nbsp;&nbsp;&nbsp; Howdy, I'm Nolan, currently residing in Georgetown, Texas. A seasoned full-stack developer with **over a decade** of dedicated practice.
+&nbsp;&nbsp;&nbsp; Howdy, I'm Silas, currently residing in Santa Clara, CA. A seasoned full-stack developer with **over a decade** of dedicated practice.
 I prioritize client satisfaction over earnings, which is why I focus on delivering quality work.
 
-<!-- <a href="https://linktr.ee/starmastar1126" target="_blank"><img src="https://img.shields.io/badge/LINKTREE-12100E?logo=linktree&color=009926&logoColor=white" /></a> -->
-<!-- <a href="https://www.facebook.com/starmastar1126" target="_blank"><img src="https://img.shields.io/badge/FACEBOOK-12100E?logo=facebook&color=0962F8&logoColor=white" /></a> -->
-<!-- <a href="https://www.twitter.com/starmastar1126" target="_blank"><img src="https://img.shields.io/badge/TWITTER-12100E?logo=twitter&color=1A91E4&logoColor=white" /></a> -->
-<!-- <a href="https://www.youtube.com/channel/UCzeChx-CbFZLGpeUpItcHiw" target="_blank"><img src="https://img.shields.io/badge/YOUTUBE-12100E?logo=youtube&color=FF0000&logoColor=white" /></a> -->
-<!-- <a href="https://www.medium.com/@starmastar1126" target="_blank"><img src="https://img.shields.io/badge/MEDIUM-12100E?logo=medium&color=000000&logoColor=white" /></a> -->
-<!-- <a href="https://starmastar1126.hashnode.dev" target="_blank"><img src="https://img.shields.io/badge/HASHNODE-12100E?logo=hashnode&color=0040ff&logoColor=white" /></a> -->
-<!-- <a href="https://www.quora.com/profile/Silas-Jones-61" target="_blank"><img src="https://img.shields.io/badge/QUORA-12100E?logo=quora&color=B82A27&logoColor=white" /></a> -->
+<a href="https://linktr.ee/starmastar1126" target="_blank"><img src="https://img.shields.io/badge/LINKTREE-12100E?logo=linktree&color=009926&logoColor=white" /></a>
+<a href="https://www.facebook.com/starmastar1126" target="_blank"><img src="https://img.shields.io/badge/FACEBOOK-12100E?logo=facebook&color=0962F8&logoColor=white" /></a>
+<a href="https://www.twitter.com/starmastar1126" target="_blank"><img src="https://img.shields.io/badge/TWITTER-12100E?logo=twitter&color=1A91E4&logoColor=white" /></a>
+<a href="https://www.youtube.com/channel/UCzeChx-CbFZLGpeUpItcHiw" target="_blank"><img src="https://img.shields.io/badge/YOUTUBE-12100E?logo=youtube&color=FF0000&logoColor=white" /></a>
+<a href="https://www.medium.com/@starmastar1126" target="_blank"><img src="https://img.shields.io/badge/MEDIUM-12100E?logo=medium&color=000000&logoColor=white" /></a>
+<a href="https://starmastar1126.hashnode.dev" target="_blank"><img src="https://img.shields.io/badge/HASHNODE-12100E?logo=hashnode&color=0040ff&logoColor=white" /></a>
+<a href="https://www.quora.com/profile/Silas-Jones-61" target="_blank"><img src="https://img.shields.io/badge/QUORA-12100E?logo=quora&color=B82A27&logoColor=white" /></a>
 <!-- <a href="https://www.linkedin.com/in/starownar1126" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-12100E?logo=linkedin&color=0077B0&logoColor=white" /></a> -->
 <!-- <a href="https://www.linkedin.com/in/codecrafts1128" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-12100E?logo=linkedin&color=0077B0&logoColor=white" /></a> -->
 <!-- <a href="https://www.tiktok.com/@ministar1126" target="_blank"><img src="https://img.shields.io/badge/TIKTOK-12100E?logo=tiktok&color=000000&logoColor=white" /></a> -->
 <!-- <a href="https://www.pinterest.com/starmastar1126" target="_blank"><img src="https://img.shields.io/badge/PINTEREST-12100E?logo=pinterest&color=E50023&logoColor=white" /></a> -->
 <a href="https://starmastar1126.github.io/portfolio" target="_blank"><img src="https://img.shields.io/badge/WEBSITE-12100E?logo=html5&color=1F2024&logoColor=white" /></a>
-<a href="mailto:nolan@minionhub.co"><img src="https://img.shields.io/badge/GMAIL-12100E?logo=gmail&color=E34134&logoColor=white" /></a>
+<a href="mailto:starmastar1126@gmail.com"><img src="https://img.shields.io/badge/GMAIL-12100E?logo=gmail&color=E34134&logoColor=white" /></a>
 <a href="https://t.me/starmastar1127" target="_blank"><img src="https://img.shields.io/badge/TELEGRAM-12100E?logo=telegram&color=0088FF&logoColor=white" /></a>
 
 ![Profile View](https://komarev.com/ghpvc/?username=starmastar1126&color=green)
@@ -29,11 +29,11 @@ I prioritize client satisfaction over earnings, which is why I focus on deliveri
 - [Foodnet: Romania Food Delivery & Recipe Mobile Application(React Native/Expo)](https://youtu.be/XDGSIJ3WguM)
 - [Paksa: eCommerce Mobile Application(React Native)](https://youtu.be/7zK89HbPaz4)
 
-<!-- #### Articles
+#### Articles
 - [React Native: The Future of Mobile App Development](https://starmastar1126.medium.com/react-native-the-future-of-mobile-app-development-3f1d4e83e5cc)
 - [Optimal React Native Architecture and Example](https://starmastar1126.medium.com/optimal-react-native-architecture-and-example-a0c92359ce7e)
 - [React Native Emerging Technology in 2024](https://starmastar1126.medium.com/react-native-emerging-technology-in-2024-63191bc08aaf)
-- [In the future, will React Native be abandoned?](https://starmastar1126.medium.com/in-the-future-will-react-native-be-abandoned-5d296c059da5) -->
+- [In the future, will React Native be abandoned?](https://starmastar1126.medium.com/in-the-future-will-react-native-be-abandoned-5d296c059da5)
 
 ### 💻 Technologies 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
