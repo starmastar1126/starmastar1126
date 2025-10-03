@@ -1,5 +1,5 @@
 ### 👋 Hello, Welcome to StarMastar1126
-&nbsp;&nbsp;&nbsp; Howdy, I'm Nolan, currently residing in Georgetown, Texas. A seasoned full-stack developer with **over a decade** of dedicated practice.
+&nbsp;&nbsp;&nbsp; Howdy, I'm Oscar, currently residing in Oak Lawn, Illinois. A seasoned full-stack developer with **over a decade** of dedicated practice.
 I prioritize client satisfaction over earnings, which is why I focus on delivering quality work.
 
 <!-- <a href="https://linktr.ee/starmastar1126" target="_blank"><img src="https://img.shields.io/badge/LINKTREE-12100E?logo=linktree&color=009926&logoColor=white" /></a> -->
