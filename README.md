@@ -4,7 +4,7 @@ I prioritize client satisfaction over earnings, which is why I focus on deliveri
 
 <a href="https://www.linkedin.com/in/oscar-salazar-184922b2" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-12100E?logo=linkedin&color=0077B0&logoColor=white" /></a>
 <a href="https://starmastar1126.github.io/salazar" target="_blank"><img src="https://img.shields.io/badge/WEBSITE-12100E?logo=html5&color=1F2024&logoColor=white" /></a>
-<a href="mailto:osalazar1120@gmail.com"><img src="https://img.shields.io/badge/GMAIL-12100E?logo=gmail&color=E34134&logoColor=white" /></a>
+<a href="mailto:codecrafts1126@gmail.com"><img src="https://img.shields.io/badge/GMAIL-12100E?logo=gmail&color=E34134&logoColor=white" /></a>
 <a href="https://t.me/starmastar1127" target="_blank"><img src="https://img.shields.io/badge/TELEGRAM-12100E?logo=telegram&color=0088FF&logoColor=white" /></a>
 
 ![Profile View](https://komarev.com/ghpvc/?username=starmastar1126&color=green)
