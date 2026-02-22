@@ -9,13 +9,13 @@ I prioritize client satisfaction over earnings, which is why I focus on deliveri
 <a href="https://www.medium.com/@starmastar1126" target="_blank"><img src="https://img.shields.io/badge/MEDIUM-12100E?logo=medium&color=000000&logoColor=white" /></a>
 <a href="https://starmastar1126.hashnode.dev" target="_blank"><img src="https://img.shields.io/badge/HASHNODE-12100E?logo=hashnode&color=0040ff&logoColor=white" /></a>
 <a href="https://www.quora.com/profile/Silas-Jones-61" target="_blank"><img src="https://img.shields.io/badge/QUORA-12100E?logo=quora&color=B82A27&logoColor=white" /></a>
-<a href="https://discord.gg/3cJEJdC6" target="_blank"><img src="https://img.shields.io/badge/DISCORD-12100E?logo=discord&color=0077B0&logoColor=white" /></a>
 <!-- <a href="https://www.linkedin.com/in/codecrafts1128" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-12100E?logo=linkedin&color=0077B0&logoColor=white" /></a> -->
 <!-- <a href="https://www.tiktok.com/@ministar1126" target="_blank"><img src="https://img.shields.io/badge/TIKTOK-12100E?logo=tiktok&color=000000&logoColor=white" /></a> -->
 <!-- <a href="https://www.pinterest.com/starmastar1126" target="_blank"><img src="https://img.shields.io/badge/PINTEREST-12100E?logo=pinterest&color=E50023&logoColor=white" /></a> -->
 <a href="https://starmastar1126.github.io/portfolio" target="_blank"><img src="https://img.shields.io/badge/WEBSITE-12100E?logo=html5&color=1F2024&logoColor=white" /></a>
 <a href="mailto:starmastar1126@gmail.com"><img src="https://img.shields.io/badge/GMAIL-12100E?logo=gmail&color=E34134&logoColor=white" /></a>
 <a href="https://t.me/starmastar1127" target="_blank"><img src="https://img.shields.io/badge/TELEGRAM-12100E?logo=telegram&color=0088FF&logoColor=white" /></a>
+<a href="https://discord.gg/3cJEJdC6" target="_blank"><img src="https://img.shields.io/badge/DISCORD-12100E?logo=discord&color=0077B0&logoColor=white" /></a>
 
 ![Profile View](https://komarev.com/ghpvc/?username=starmastar1126&color=green)
 
